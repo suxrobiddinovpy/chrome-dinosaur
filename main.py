@@ -263,4 +263,4 @@ def menu(death_count):
                 main()
 
 
-menu(death_count=0)
+menu(death_count=9999)
